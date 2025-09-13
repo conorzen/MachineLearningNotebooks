@@ -6,5 +6,13 @@ dist/
 wheels/
 *.egg-info
 
+
 # Virtual environments
 .venv
+
+.DS_Store
+.env
+.env.*
+.vscode/
+
+uv.lock
